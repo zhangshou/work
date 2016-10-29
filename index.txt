@@ -1,2 +1,4 @@
 drag
 menu
+slider
+
